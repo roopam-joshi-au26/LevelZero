@@ -1,0 +1,22 @@
+{
+  "name": "levelzero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "L1_Exercise01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roopam-joshi-au26/LevelZero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roopam-joshi-au26/LevelZero/issues"
+  },
+  "homepage": "https://github.com/roopam-joshi-au26/LevelZero#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
